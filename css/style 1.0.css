@@ -43,7 +43,7 @@ html,body{
 /*img-link*/
 .grid{
   margin: auto;
-  max-width: 700px;
+  max-width: 70%;
 }
 
 .grid a{
@@ -99,13 +99,3 @@ footer ul li a{
   color: white;
 }
  
- /*mobile device*/
-@media screen and (max-width: 480px) {
-  .grid{
-    margin-left: 50px;
-    margin-right: 50px;
-  }
-  .row{
-    margin-top: 20px;
-  }
-}
